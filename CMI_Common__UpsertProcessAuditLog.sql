@@ -1,5 +1,4 @@
 USE [CrossmarkMovistaIntegration]
-GO
 /****** Object:  StoredProcedure [dbo].[CMI_Common__UpsertProcessAuditLog]    Script Date: 8/15/2018 11:44:16 AM ******/
 SET ANSI_NULLS ON
 GO
